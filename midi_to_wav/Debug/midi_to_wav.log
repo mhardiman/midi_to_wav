@@ -1,0 +1,4 @@
+﻿  midi_to_wav.cpp
+c:\users\mark\source\repos\midi_to_wav\midi_to_wav\midi_to_wav.cpp(130): warning C4244: 'argument': conversion from 'double' to 'const unsigned int', possible loss of data
+c:\users\mark\source\repos\midi_to_wav\midi_to_wav\midi_to_wav.cpp(131): warning C4244: 'argument': conversion from 'double' to 'const unsigned int', possible loss of data
+  midi_to_wav.vcxproj -> C:\Users\Mark\source\repos\midi_to_wav\Debug\midi_to_wav.exe
